@@ -248,7 +248,7 @@ POST /agent/revoke
 
 There is no separate Slack HTTP endpoint. The Slack-like action is internal to the service provider.
 
-## How to Run on Another Laptop
+## How to Run
 
 Prerequisite:
 
